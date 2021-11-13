@@ -1,0 +1,272 @@
+[
+  {
+    "id": 8604,
+    "uid": "0e10e8fe-cb2f-42d0-b86a-e38cb4e01f40",
+    "nationality": "Russia",
+    "language": "Russian",
+    "capital": "Moscow",
+    "national_sport": "Fishing",
+    "flag": "🇷🇺"
+  },
+  {
+    "id": 1172,
+    "uid": "f3564e31-88fc-438b-84ea-5db97fbd3f4a",
+    "nationality": "New Zealanders",
+    "language": "Hakka",
+    "capital": "Managua",
+    "national_sport": "wrestling",
+    "flag": "🇸🇽"
+  },
+  {
+    "id": 9307,
+    "uid": "0ad711a3-dc21-40fd-8961-bc4d9bc3325a",
+    "nationality": "Manx",
+    "language": "Kazakh",
+    "capital": "Saint John's",
+    "national_sport": "wrestling",
+    "flag": "🇱🇷"
+  },
+  {
+    "id": 253,
+    "uid": "559c6f7c-aacb-4de1-b22a-abce98cff6ba",
+    "nationality": "Guyanese",
+    "language": "Romanian",
+    "capital": "Port Moresby",
+    "national_sport": "sumo",
+    "flag": "🇱🇺"
+  },
+  {
+    "id": 339,
+    "uid": "7007c1ba-46d1-4ea5-968f-71e044214a13",
+    "nationality": "Cameroonians",
+    "language": "English",
+    "capital": "Ashgabat",
+    "national_sport": "wrestling",
+    "flag": "🇳🇱"
+  },
+  {
+    "id": 6818,
+    "uid": "558bf936-2542-4d37-a187-5ac5f378e77b",
+    "nationality": "Bahamians",
+    "language": "English",
+    "capital": "Hanoi",
+    "national_sport": "taekwondo",
+    "flag": "🇨🇳"
+  },
+  {
+    "id": 7958,
+    "uid": "b2a7c1f0-1a5e-4055-abb4-00b2d2ddbfc6",
+    "nationality": "Quebecers",
+    "language": "Tagalog",
+    "capital": "Tarawa Atoll",
+    "national_sport": "association",
+    "flag": "🇹🇼"
+  },
+  {
+    "id": 5564,
+    "uid": "e7716e7e-ca35-4808-bd96-2429569f376b",
+    "nationality": "Ethiopians",
+    "language": "Japanese",
+    "capital": "Algiers",
+    "national_sport": "oil wrestling",
+    "flag": "🇨🇾"
+  },
+  {
+    "id": 68,
+    "uid": "153ceba3-ee10-48b2-ab2f-868ab0ce638e",
+    "nationality": "Singaporeans",
+    "language": "Thai",
+    "capital": "Saint George's",
+    "national_sport": "football",
+    "flag": "🇪🇨"
+  },
+  {
+    "id": 8399,
+    "uid": "f48971c3-9f6d-4770-9767-9658b7a1dcf9",
+    "nationality": "Australians",
+    "language": "Russian",
+    "capital": "Jakarta",
+    "national_sport": "kabaddi",
+    "flag": "🇬🇾"
+  },
+  {
+    "id": 5725,
+    "uid": "32e291ac-8a5a-47b0-915a-24ea12fe38bd",
+    "nationality": "Americans",
+    "language": "Zulu",
+    "capital": "Montevideo",
+    "national_sport": "wrestling",
+    "flag": "🇧🇯"
+  },
+  {
+    "id": 2770,
+    "uid": "8865a2bb-4da7-4a6b-bb50-3ff134c8aa5d",
+    "nationality": "Lithuanians",
+    "language": "Hakka",
+    "capital": "Bandar Seri Begawan",
+    "national_sport": "bandy",
+    "flag": "🇪🇸"
+  },
+  {
+    "id": 5678,
+    "uid": "552a38e4-48d4-41d3-91b5-130553d5113e",
+    "nationality": "Finns",
+    "language": "Korean",
+    "capital": "Suva",
+    "national_sport": "gymnastics",
+    "flag": "🇱🇨"
+  },
+  {
+    "id": 9071,
+    "uid": "c4e0b4dc-ec4b-4e48-af61-eaaf0abc9dcb",
+    "nationality": "Ugandans",
+    "language": "Kazakh",
+    "capital": "Lilongwe",
+    "national_sport": "association",
+    "flag": "🇵🇾"
+  },
+  {
+    "id": 1999,
+    "uid": "5cbcb799-9285-4e24-8ccd-a3954442b370",
+    "nationality": "Aromanians",
+    "language": "English",
+    "capital": "Riga",
+    "national_sport": "bandy",
+    "flag": "🇿🇼"
+  },
+  {
+    "id": 6797,
+    "uid": "b2ff96f9-f578-4bb8-a30e-23e608b9b456",
+    "nationality": "Swiss",
+    "language": "Telugu",
+    "capital": "Tbilisi",
+    "national_sport": "oil wrestling",
+    "flag": "🇲🇲"
+  },
+  {
+    "id": 4110,
+    "uid": "c4aef6bc-16fd-48f8-954d-ee3cb3bc83a0",
+    "nationality": "Palauans",
+    "language": "Zulu",
+    "capital": "Vilnius",
+    "national_sport": "dandi biyo",
+    "flag": "🇫🇰"
+  },
+  {
+    "id": 7453,
+    "uid": "6bd0c8f9-7b38-4a5f-95d1-5befdc9110a1",
+    "nationality": "Quebecers",
+    "language": "Tagalog",
+    "capital": "Honiara",
+    "national_sport": "football",
+    "flag": "🇭🇰"
+  },
+  {
+    "id": 6357,
+    "uid": "6c4d9a77-ae6d-4cb9-b117-521c583142cd",
+    "nationality": "Mauritians",
+    "language": "Swedish",
+    "capital": "Addis Ababa",
+    "national_sport": "rugby union",
+    "flag": "🇩🇯"
+  },
+  {
+    "id": 141,
+    "uid": "606a5ccc-8332-4b9e-aa52-bc6a643c6d4a",
+    "nationality": "Albanians",
+    "language": "Tagalog",
+    "capital": "Amman",
+    "national_sport": "archery",
+    "flag": "🇹🇯"
+  },
+  {
+    "id": 346,
+    "uid": "c9d9c2e9-980e-4bd0-ba36-d0e07ce21b02",
+    "nationality": "Finnish Swedish",
+    "language": "Korean",
+    "capital": "Moroni",
+    "national_sport": "shooting",
+    "flag": "🇹🇦"
+  },
+  {
+    "id": 1425,
+    "uid": "b524cb49-9bcd-4166-bbd8-06a50e206afa",
+    "nationality": "Mexicans",
+    "language": "Zulu",
+    "capital": "Banjul",
+    "national_sport": "hockey",
+    "flag": "🇮🇸"
+  },
+  {
+    "id": 2049,
+    "uid": "c908d718-fe3e-4843-a4dd-3c4424103d54",
+    "nationality": "Belgians",
+    "language": "Hindi",
+    "capital": "Abuja",
+    "national_sport": "dandi biyo",
+    "flag": "🇬🇾"
+  },
+  {
+    "id": 1125,
+    "uid": "0a1a3e04-a1d6-4058-bbd3-849be6808d41",
+    "nationality": "Latvians",
+    "language": "Nepali",
+    "capital": "Reykjavik",
+    "national_sport": "archery",
+    "flag": "🇲🇵"
+  },
+  {
+    "id": 5879,
+    "uid": "19fb0258-59d1-4743-bdd9-e3f1058d220f",
+    "nationality": "Cubans",
+    "language": "Romanian",
+    "capital": "Kabul",
+    "national_sport": "rugby union",
+    "flag": "🇧🇳"
+  },
+  {
+    "id": 4851,
+    "uid": "e5da4cfd-00bd-4332-a22d-07af23739baf",
+    "nationality": "Macedonians",
+    "language": "Tagalog",
+    "capital": "Belgrade",
+    "national_sport": "soccer",
+    "flag": "🇬🇱"
+  },
+  {
+    "id": 9227,
+    "uid": "9fbfddc3-98f8-4448-a7c3-b0d6cf47b15e",
+    "nationality": "Sudanese",
+    "language": "Telugu",
+    "capital": "Malabo",
+    "national_sport": "hockey",
+    "flag": "🇪🇨"
+  },
+  {
+    "id": 3961,
+    "uid": "647b3a36-bb0d-4b9a-a02c-849c0e2fb583",
+    "nationality": "Bahamians",
+    "language": "Dutch",
+    "capital": "Yerevan",
+    "national_sport": "sumo",
+    "flag": "🇬🇵"
+  },
+  {
+    "id": 3035,
+    "uid": "110fd92f-ab9a-4818-9208-5b938611d8c9",
+    "nationality": "Chadians",
+    "language": "Javanese",
+    "capital": "Kampala",
+    "national_sport": "basketball",
+    "flag": "🇲🇬"
+  },
+  {
+    "id": 4530,
+    "uid": "8b1ee11d-6979-45fc-b522-8824a75d8266",
+    "nationality": "Ivoirians",
+    "language": "Kazakh",
+    "capital": "San Jose",
+    "national_sport": "basketball",
+    "flag": "🇲🇱"
+  }
+]
