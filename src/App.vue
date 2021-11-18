@@ -1,34 +1,35 @@
 <template>
   <div id="app">
+    <app-header />
+    <router-view />
   </div>
 </template>
-
 <script>
-
+import AppHeader from "./components/layout/AppHeader.vue";
 export default {
-  name: "App",
   components: {
-    Form,
+    AppHeader,
   },
+  mounted() {
+    this.$store.dispatch("loadProducts");
+  },
+  methods: {},
+  computed: {},
 };
 </script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  background-color: #fafafa;
-  padding: 24px;
-  box-sizing: border-box;
+  padding: 10px 15px;
 }
-
-html,
-body,
-#app {
-  height: 100%;
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
-
-* {
-  box-sizing: border-box;
+p {
+  margin: 0 0 5px;
 }
 </style>
